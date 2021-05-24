@@ -1,0 +1,4 @@
+Get the process ID using task manager or Get-Process via windows powershell.
+use the command <taskkill /pid 'process id'>
+For closing multiple process use:
+<taskkill /pid 'process ID'/pid 'process ID'>
